@@ -1,7 +1,0 @@
----
-applications:
-- name: JsonToCsvPrint
-  buildpack: java_buildpack
-  memory: 700M
-  instances: 1
-  path: target/JsonToCsvPrint-0.0.1-SNAPSHOT.jar
